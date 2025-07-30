@@ -1,6 +1,7 @@
 
 <h1 align="center">
-<br>
+  <h1 align="center">
+  <img src="https://github.com/user-attachments/assets/9dd28ba3-e0f9-4a1f-88d7-42410fd0b054" width="264" height="264" alt="Jarvis"><br>
   J.A.R.V.I.S. – Python AI Computer Assistant
 </h1>
 
@@ -103,7 +104,7 @@ cd jarvis
 # Create a virtual environment
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
-venv\Scriptsctivate      # Windows
+venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
