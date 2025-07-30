@@ -1,6 +1,5 @@
 
 <h1 align="center">
-  <h1 align="center">
   <img src="https://github.com/user-attachments/assets/9dd28ba3-e0f9-4a1f-88d7-42410fd0b054" width="264" height="264" alt="Jarvis"><br>
   J.A.R.V.I.S. – Python AI Computer Assistant
 </h1>
